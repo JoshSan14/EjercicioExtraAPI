@@ -3,7 +3,7 @@
 
 
 ## Instalar proyecto api
-npm install
+* npm install
 npm install moment 
 npm install cors 
 
