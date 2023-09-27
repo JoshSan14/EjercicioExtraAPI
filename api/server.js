@@ -12,9 +12,9 @@ app.use(bodyParser.json());
 const pool = new Pool({
   user: 'postgres',
   host: 'localhost',
-  database: 'libreria',
-  password: '12345',
-  port: 5433,//5432
+  database: 'libreria_web',
+  password: '1408',
+  port: 5432,//5432
 });
 
 // Rutas CRUD aquí
