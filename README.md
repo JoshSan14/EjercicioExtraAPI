@@ -14,6 +14,6 @@
 * npm install bootstrap
 * npm install axios
 
-* Ejemplo https://www.w3schools.com/REACT/DEFAULT.ASP
+# Link al video en ejecución: https://youtu.be/-LTgd_A9piA
 
 
